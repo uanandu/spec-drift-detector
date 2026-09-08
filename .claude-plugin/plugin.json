@@ -1,0 +1,8 @@
+{
+"name": "spec-drift-detector",
+  "description": "Catches an agent drifting from its own stated constraints mid-session",
+  "version": "0.1.0",
+  "author": { 
+    "name": "Ananda Narayanan Udayakumar"
+   }
+}
